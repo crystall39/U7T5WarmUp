@@ -26,37 +26,37 @@ public class Emoji // Classroom
     {
         System.out.println(BLUE + teacher + " < Hello, Class! My name is " + teacherName + "! )");
         System.out.println(PURPLE + headDown + " " + RED + sadStudent + " " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher + " < Does anyone know the answer to 2 + 2? )");
         System.out.println(PURPLE + headDown + " " + RED + sadStudent + " " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher + " < . . . )");
         System.out.println(PURPLE + headDown + " " + RED + sadStudent + " " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher + " < If no one raises their hand, I'll have to call someone... )");
         System.out.println(PURPLE + headDown + " " + RED + sadStudent + " " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher);
         System.out.println(PURPLE + headDown + " " + RED + sadStudent + " " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher);
         System.out.println(PURPLE + raisingHand + " < It's 6! ) " + RED + sadStudent + " " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher);
         System.out.println(PURPLE + headDown + " " + RED + raisingHand + " < No! It's clearly 3! ) " + BROWN + upsetStudent + " " + CYAN + headDown);
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         System.out.println();
 
         System.out.println(BLUE + teacher);
